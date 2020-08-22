@@ -1,0 +1,15 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "shows video length",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Antoine Rawlis",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.2.1",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
